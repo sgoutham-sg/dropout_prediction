@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 AI Student Dropout Prediction & Intervention System
 
 ## Project Structure
@@ -142,3 +143,6 @@ FastAPI response JSON
     ↓  displayed in
 Streamlit (risk card + factors + recommendation + what-if)
 ```
+=======
+# dropout_prediction
+>>>>>>> 0971cdb39902f6a31b60856391725e7d356dca58
